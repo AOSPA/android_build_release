@@ -16,6 +16,24 @@
       "message": "shouldn\u0027t be 10-05?",
       "revId": "36a8e2a2c2a1b969a9827a906bde4a3f3f9e11fc",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "459005df_63354608",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000165
+      },
+      "writtenOn": "2024-10-12T08:23:11Z",
+      "side": 1,
+      "message": "nope, since the patches I submitted only include the ones that are listed under 10-01 in the security bulletin. 10-05 patches are not included in this topic.",
+      "parentUuid": "9956aeea_27f22080",
+      "revId": "36a8e2a2c2a1b969a9827a906bde4a3f3f9e11fc",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
